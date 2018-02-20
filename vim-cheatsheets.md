@@ -130,7 +130,7 @@ In vim, `d` - delete is used for `cut`
 
 `p` - paste after cursor
 
-`P` - paster before cursor  
+`P` - paster before cursor
 
 `yw` - yanks one word. This can be used with number
 
@@ -221,4 +221,6 @@ Note: Prepend `no` to turn an option off. For eg, `set nolist`
 * [Vimsheet](http://vimsheet.com/)
 
 * [fprintf - Vim Cheat Sheet](https://www.fprintf.net/vimCheatSheet.html)
+
+* [Vimcasts.org](http://vimcasts.org/)
 
